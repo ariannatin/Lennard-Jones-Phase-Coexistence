@@ -4,7 +4,7 @@
 #define T 1.1                                             // temperature
 #define zeta 0.0473                                       // fugacity
 #define N_SAMPLE_MAX 500                                  // maximum value of N to sample with SUS
-#define nSteps 1000                                     // number of Monte Carlo steps
+#define nSteps 200                                       // number of Monte Carlo steps
 #define W 1                                               // dimension of the window in Successive Umbrella Sampling
 
 
